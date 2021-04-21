@@ -1,4 +1,5 @@
-﻿using DesignPatterns.Singleton.Level0;
+﻿using DesignPatterns.Prototype.Level0;
+using DesignPatterns.Singleton.Level0;
 using System;
 
 namespace DesignPatterns
@@ -7,7 +8,9 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            SingletonTestsLevel0.BaseTest();
+            //SingletonTestsLevel0.BaseTest();
+
+            PrototypeTestLevel0.BaseTest();
         }
     }
 }
