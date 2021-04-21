@@ -42,7 +42,6 @@ namespace DesignPatterns.Prototype.Level0
             Console.WriteLine(prototypeCopy.GetField4());
 
             Console.ReadKey();
-
         }
     }
 }

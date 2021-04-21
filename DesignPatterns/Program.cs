@@ -10,7 +10,7 @@ namespace DesignPatterns
         {
             //SingletonTestsLevel0.BaseTest();
 
-            PrototypeTestLevel0.BaseTest();
+            //PrototypeTestLevel0.BaseTest();
         }
     }
 }
