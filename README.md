@@ -6,5 +6,5 @@ The core idea of creating a repository for this is providing different examples 
 
 
 - Level 0: raw examples. This serves as a basic PoC for each pattern. Level 0 examples won't use variables mocking any particular situation or real word entity
-- Level 1: examples that try to mock real world entities, but no intending to be real world examples
+- Level 1: examples that try to mock real world entities, but with no intention of simulating real world examples
 - Level 2: examples that try to mock real world implementations
