@@ -1,4 +1,4 @@
-# DesignPatterns - GoF patterns examples
+# DesignPatterns - GoF patterns with examples
 
 I am currently studying design patterns in order to improve my code architecture knowledge. This repository contains code examples for the patterns I'm studying, which are all GoF patterns.
 
